@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Photography of Marco Martinez]]></title>
         <description><![CDATA[Photography of Marco Martinez]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photography-of-marco-martinez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 03:36:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 03:36:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photography-of-marco-martinez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee2b7c82-d68e-45f3-bc85-e163951c0406.jpg">]]></description>
+            <link>https://thegrid.ai/photography-of-marco-martinez/47d931bd-3993-489a-b1ca-98a2e54900c9/index.html</link>
+            <guid isPermaLink="false">47d931bd-3993-489a-b1ca-98a2e54900c9</guid>
+            <pubDate>Mon, 29 Feb 2016 03:35:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e71510ae-5b28-461a-8cf9-c84fb8e2cfee.jpg">]]></description>
-            <link>undefineda20a40d2-cd5d-4b9d-a0cd-3b4f19862153/index.html</link>
+            <link>https://thegrid.ai/photography-of-marco-martinez/a20a40d2-cd5d-4b9d-a0cd-3b4f19862153/index.html</link>
             <guid isPermaLink="false">a20a40d2-cd5d-4b9d-a0cd-3b4f19862153</guid>
             <pubDate>Mon, 29 Feb 2016 03:35:24 GMT</pubDate>
         </item>
