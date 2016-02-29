@@ -1,0 +1,28 @@
+name: Photography of Marco Martinez
+favicon: null
+layout_spectrum: 0.248234054306522
+typography_spectrum: 0.12527805380523205
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.21304346760734916
+  lightness: 0.9735603837762028
+  saturation: 0.8576609739102423
+  rhythmicContrast: 0.12371939746662974
+purpose: []
