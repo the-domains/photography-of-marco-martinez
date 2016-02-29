@@ -1,29 +1,41 @@
-name: Fotografo M
-favicon: null
-layout_spectrum: 0.24769
-typography_spectrum: 0.41179
 title: Photography of Marco Martinez
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8576609739102423
+  brandStrength: 0
+  lightness: 0.9735603837762028
   brandColors:
     - '#06090e'
     - '#fdfdfd'
     - '#c6d4dd'
     - '#2d3539'
     - '#3d7ab1'
-  brandStrength: 0.1875
-  lightness: 0.9735603837762028
-  saturation: 0.8576609739102423
-  rhythmicContrast: 0.12371939746662974
-purpose: []
+  rhythmicContrast: 0.1237193974666297
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Fotografo M
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.41179
+layout_spectrum: 0.1992481
